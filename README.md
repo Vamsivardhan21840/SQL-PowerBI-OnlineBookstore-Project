@@ -78,17 +78,34 @@ All SQL queries with answers are available in:
 
 ---
 
-## Power BI Dashboard Highlights
+## Power BI Dashboard
 
-### Key Insights
-- Total Revenue and Month-over-Month Growth  
-- Monthly Revenue Trend (2024)  
-- Top 5 Best-Selling Books  
-- Top Customers by Revenue  
-- Revenue Distribution by Genre  
-- Date-based filtering using slicers  
+### Overall Dashboard View
 
-### Power BI Features Used
+![Dashboard Overview](powerbi/dashboard_screenshots/overview.png)
+
+---
+
+### Monthly Revenue Trend
+
+![Monthly Revenue](powerbi/dashboard_screenshots/monthly_revenue.png)
+
+---
+
+### Top Customers Analysis
+
+![Top Customers](powerbi/dashboard_screenshots/top_customers.png)
+
+---
+
+### Genre-wise Revenue Distribution
+
+![Genre Revenue](powerbi/dashboard_screenshots/genre_distribution.png)
+
+---
+
+## Power BI Features Used
+
 - KPI Cards  
 - Clustered Column Charts  
 - Line Charts  
